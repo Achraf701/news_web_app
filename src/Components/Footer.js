@@ -5,8 +5,10 @@ import SocialIcons from "./SocialIcons"
 export default function Footer (){
     return(
          <FooterStyled>
+
             <Container>
             <img src='./images/logo_white.svg' alt='' />
+
          <Flex>
           <ul>
             <li>
